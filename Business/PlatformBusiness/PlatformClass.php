@@ -42,7 +42,13 @@ class PlatformClass extends AbstractBusiness
     {
         self::$platform = $platform;
     }
-    
+
+    /**
+     * 得到所有平台名称
+     *
+     * @param ContainerInterface $container
+     * @return array
+     */
     public static function getPlatforms(ContainerInterface $container)
     {
         return array();
