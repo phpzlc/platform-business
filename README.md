@@ -4,4 +4,4 @@
 
 ## 文档
 
-[https://phpzlc.com/doc/module/platform-business](https://phpzlc.com/doc/module/platform-business)
+[https://phpzlc.com/doc/zh-CN/platform-business](https://phpzlc.com/doc/zh-CN/platform-business)
